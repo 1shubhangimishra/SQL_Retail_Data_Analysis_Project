@@ -43,3 +43,35 @@ Write SQL queries to get the required output for following business scenarios.
 13.	Which store-type sells the maximum products; by value of sales amount and by quantity sold?
 14.	What are the categories for which average revenue is above the overall average.
 15.	Find the average and total revenue by each subcategory for the categories which are among top 5 categories in terms of quantity sold.
+
+
+
+
+
+
+
+## Solutions for the above Business Problems:
+
+1. I used the distict keyword to get the distinct store_types, and applied the COUNT aggregate function on the store_type from the Transactions. Using GROUP BY on the store_type to get the most frequently used transaction channel.
+2.  
+3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
